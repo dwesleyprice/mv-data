@@ -6,6 +6,25 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "1",
+			"date": "2017-05-24",
+			"recipient": {
+				"name": "TomTomComCom",
+				"address": "123 FindMe Montana"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "FroggerChampionConsulting",
+					"amount": "1500"
+				},
+				{
+					"description": "IceCream",
+					"amount": "50"
+				}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
